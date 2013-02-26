@@ -26,7 +26,7 @@ Installation
 
 Clone or download this repository and add the following line to your `.bash_profile` or `.bashrc` file:
 
-    [ -f ~/.bash_completion/mysql-completion.bash ] && source ~/.bash_completion/mysql-completion.bash
+    [ -f ~/mysql-bash-completion/mysql-completion.bash ] && source ~/mysql-bash-completion/mysql-completion.bash
 
 You can also add it to your [dotfiles](https://github.com/florianeckerstorfer/dotfiles).
 
@@ -46,3 +46,4 @@ The following resources I found helpful:
 - [An introduction to bash completion: part 2](http://www.debian-administration.org/article/An_introduction_to_bash_completion_part_2)
 - [More on Using the Bash Complete Command](http://www.linuxjournal.com/content/more-using-bash-complete-command)
 - [Programmable Completion](http://www.gnu.org/software/bash/manual/bashref.html#Programmable-Completion)
+- [Symfony2 autocomplete](https://github.com/KnpLabs/symfony2-autocomplete)
