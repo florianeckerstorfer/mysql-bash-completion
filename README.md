@@ -47,3 +47,7 @@ The following resources I found helpful:
 - [More on Using the Bash Complete Command](http://www.linuxjournal.com/content/more-using-bash-complete-command)
 - [Programmable Completion](http://www.gnu.org/software/bash/manual/bashref.html#Programmable-Completion)
 - [Symfony2 autocomplete](https://github.com/KnpLabs/symfony2-autocomplete)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/florianeckerstorfer/mysql-bash-completion/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
